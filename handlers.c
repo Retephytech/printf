@@ -4,7 +4,7 @@
  *       Peters Peace
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * handle_flags - Matches a flag with its corresponding value.
